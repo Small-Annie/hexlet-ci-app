@@ -2,7 +2,7 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
-[![check](https://github.com/Small-Annie/hexlet-ci-app/actions/workflows/check.yml/badge.svg)](https://github.com/Small-Annie/hexlet-ci-app/actions)
+[![Node CI](https://github.com/Small-Annie/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/Small-Annie/hexlet-ci-app/actions/workflows/main.yml)
 
 ## System requirements
 
